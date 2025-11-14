@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+**Business Analyst Involvement:** Business Analysts should be engaged during initiation to help refine problem statements, validate business requirements, and ensure success metrics align with business objectives.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -31,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Business Analyst engaged to validate requirements and success metrics
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton

@@ -16,6 +16,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+### Cross-functional Planning Interactions
+- **Business Analyst**: Validates requirements, clarifies acceptance criteria, and ensures backlog items align with business objectives.
+- **UX Designer**: Reviews user-facing features for design needs, creates wireframes/mockups, and ensures design work is sequenced appropriately in the backlog.
+- **Technical Writer**: Identifies documentation needs for new features and ensures documentation tasks are included in the release plan.
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -38,6 +43,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Business Analyst has validated requirements and acceptance criteria
+- [ ] UX Designer has reviewed user-facing features and created design artifacts
+- [ ] Technical Writer has identified documentation requirements
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
