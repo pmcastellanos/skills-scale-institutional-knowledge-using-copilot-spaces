@@ -23,6 +23,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+### Cross-functional Execution Interactions
+- **DevOps/SRE Engineer**: Reviews deployment strategies, sets up CI/CD pipelines, monitors system health, and prepares infrastructure for new features.
+- **Technical Writer**: Tracks feature development to update documentation, reviews PRs for user-facing changes, and coordinates with developers on technical accuracy.
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
@@ -36,5 +40,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] DevOps/SRE Engineer has reviewed deployment approach and infrastructure needs
+- [ ] Technical Writer is tracking documentation needs and updates
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly

@@ -17,6 +17,10 @@ After each sprint, release, or important milestone. Also after incidents.
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
+### Cross-functional Retrospective Participation
+- **Support Lead**: Shares customer feedback, recurring support issues, and insights on how releases impacted customer satisfaction.
+- **Technical Writer**: Provides feedback on documentation gaps, clarity issues reported by users, and suggestions for improving documentation processes.
+
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync

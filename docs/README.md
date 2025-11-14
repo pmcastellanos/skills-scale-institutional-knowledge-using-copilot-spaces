@@ -29,6 +29,11 @@ OctoAcme projects follow a structured five-phase lifecycle:
 - **Project Manager (PM)**: Coordinates delivery, manages schedules, risks, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
+- **UX Designer**: Creates intuitive user experiences through research and design
+- **DevOps/SRE Engineer**: Ensures reliable infrastructure, deployments, and system observability
+- **Technical Writer**: Creates clear documentation for users and developers
+- **Business Analyst**: Bridges business needs with technical solutions and validates requirements
+- **Support Lead**: Manages customer support and provides customer feedback insights
 - **QA/Testing**: Validate quality and acceptance criteria
 - **Stakeholders**: Provide inputs, feedback, and approvals
 
